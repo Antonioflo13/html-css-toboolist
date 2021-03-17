@@ -77,6 +77,15 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
+h1{
+    vertical-align: middle;
+}
+.circle{
+    border: 1px solid;
+    border-radius: 40px;
+    padding: 0 5px 0 5px;
+    margin-right: 5px;
+}
 
 /* main */
 main{
